@@ -218,7 +218,7 @@ class Api extends CI_Controller {
 	public function update36(){
 		echo '<?xml version="1.0" encoding="utf-8"?>'.
 				'<info>'.
-				'<version>1.1</version>'.
+				'<version>1.0</version>'.
 				'<url>http://clinic.coolkeji.com/uploads/pskin.apk</url>'.
 				'<description>检查到最新版本，请及时更新！</description>'.
 				'</info>';
